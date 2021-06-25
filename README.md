@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BishrGhalil
 - 👀 I’m interested in c, python and Linux
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bshrghalil@gmail.com
 
 <!---
