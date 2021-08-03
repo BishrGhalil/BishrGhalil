@@ -3,7 +3,7 @@
 
 Hi, I'm Bishr Ghalil, a Computer Science student from Syria. My passion for software lies with dreaming up ideas and making them come true. I love learning new programing languages, And any computer related topic.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
   
 - 💬 Ask me about anything, I am happy to help;
