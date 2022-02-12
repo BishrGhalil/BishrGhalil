@@ -1,7 +1,7 @@
 ### Hey there
 <br />
 
-Hi, I'm Bishr Ghalil, a Computer Science student from Syria. My passion for software lies with dreaming up ideas and making them come true. I love learning new programing languages, And any computer related topic.
+Hi, I'm Beshr Ghalil, A Computer Science student from Syria. My passion for software lies with dreaming up ideas and making them come true. I love learning new programing languages, And any computer related topic.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
