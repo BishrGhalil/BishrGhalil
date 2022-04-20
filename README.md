@@ -1,7 +1,7 @@
 ### Hey 👋🏻.
 <br />
 
-I'm Beshr Ghalil, A Computer Science student from Syria. My passion for software lies with dreaming up ideas and making them come true. I am interested in, write about, and develop (open source) software solutions using C, Python, Bash and other technologies.
+I'm Beshr Ghalil, A Computer Science student from Syria. My passion for software lies with dreaming up ideas and making them come true. I am interested in and develop (open source) software solutions using C, Python, Bash and other technologies.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
