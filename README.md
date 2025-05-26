@@ -1,11 +1,8 @@
 ### Hey 👋🏻.
 <br />
 
-I'm Beshr Ghalil, A Computer Science student from Syria. I am interested in and develop (open source) software solutions using C, Python, Bash and other technologies.
+I'm Beshr Alghalil, A Computer Science student from Syria. I am interested in and develop (open source) software solutions using C, Python, Bash and other technologies.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-  
 - 💬 Ask me about anything, I am happy to help;
 
 #### Github Stats
